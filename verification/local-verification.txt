@@ -1,0 +1,6 @@
+PASS: non-JavaFX core packages compile with Java 21
+PASS: 11 domain and password smoke checks passed
+PASS: SQLite schema checks passed (7 schema and transaction-integrity checks)
+PASS: 4 database migration checks passed (existing customers, teller records and transaction history preserved)
+PASS: updated JUnit test sources compile against the revised core APIs (syntax check only)
+NOTE: Full Maven/JUnit execution and JavaFX desktop launch were not run because Maven and JavaFX dependencies are unavailable in this environment.
