@@ -1,0 +1,7 @@
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-controls/21.0.13/javafx-controls-21.0.13.jar	306:1792508080000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-controls/21.0.13/javafx-controls-21.0.13-linux.jar	2582586:1792508080000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-graphics/21.0.13/javafx-graphics-21.0.13.jar	306:1792508080000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-graphics/21.0.13/javafx-graphics-21.0.13-linux.jar	4684494:1792508080000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-base/21.0.13/javafx-base-21.0.13.jar	302:1792508080000
+classpath:/home/codespace/.m2/repository/org/openjfx/javafx-base/21.0.13/javafx-base-21.0.13-linux.jar	753229:1792508080000
+classpath:/home/codespace/.m2/repository/org/xerial/sqlite-jdbc/3.54.1.0/sqlite-jdbc-3.54.1.0.jar	12132578:1793253547000

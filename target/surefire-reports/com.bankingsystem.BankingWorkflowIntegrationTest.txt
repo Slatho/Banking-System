@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bankingsystem.BankingWorkflowIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.603 s -- in com.bankingsystem.BankingWorkflowIntegrationTest

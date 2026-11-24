@@ -1,0 +1,3 @@
+com/bankingsystem/BankingWorkflowIntegrationTest.class
+com/bankingsystem/domain/AccountRulesTest.class
+com/bankingsystem/domain/PasswordHasherTest.class
